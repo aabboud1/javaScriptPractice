@@ -1,0 +1,5 @@
+given an array of integers find the most repeated number
+
+example 
+
+	findMostRepeated([3,4,4,4,4,4,4,6,6,6,1,1,4,4,4]) = 4
