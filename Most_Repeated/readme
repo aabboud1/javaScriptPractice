@@ -1,5 +1,12 @@
 given an array of integers find the most repeated number
 
 example 
+findMostRepeated([3,4,4,4,4,4,4,6,6,6,1,1,4,4,4]) = 4
 
-	findMostRepeated([3,4,4,4,4,4,4,6,6,6,1,1,4,4,4]) = 4
+Logic/Whiteboard
+// 1. loop through the Array
+// 2. check each element
+// 3. if the element is new store (element [key] and count)
+// 4. if the element is not new add to the count
+// 5. check which count is higher
+// 6. return 
